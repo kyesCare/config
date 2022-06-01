@@ -1,2 +1,3 @@
+eureka.server.enable-self-preservation=true
 eureka.client.fetch-registry=false
 eureka.client.register-with-eureka=false
