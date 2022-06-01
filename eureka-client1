@@ -1,0 +1,5 @@
+spring.rabbitmq.port=5672
+spring.rabbitmq.username=spring
+spring.rabbitmq.password=spring
+
+eureka.client.service-url.defaultZone=http://localhost:9999/eureka
