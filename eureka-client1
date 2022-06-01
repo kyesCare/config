@@ -2,5 +2,5 @@ spring.rabbitmq.host=localhost
 spring.rabbitmq.port=5672
 spring.rabbitmq.username=spring
 spring.rabbitmq.password=spring
-server.port
+server.port=9002
 eureka.client.service-url.defaultZone=http://localhost:eureka-server:9999/eureka
